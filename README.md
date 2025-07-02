@@ -1,4 +1,4 @@
-# Social Media Automation in 2025 — What’s Changed, What’s Better
+# Social Media Automation Tools in 2025 — What’s Changed, What’s Better
 
 In 2025, growing a brand on social media is not just about great content—**it’s about scale, speed, and consistency**. Whether you’re managing 10 or 10,000 accounts, automation is the key to staying ahead.
 
