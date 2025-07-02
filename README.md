@@ -105,7 +105,7 @@ It combines high-performance automation, smart safety features, and a simple lic
 
 ## 💻 Installation Guide
 
-1. Download latest version: [Releases](https://github.com/SuSocialPro/SuSocialPro/releases)  
+1. Download SuSocialPro latest version
 2. Install on any **Windows PC or VPS**  
 3. Add your accounts + proxies  
 4. Choose modules and campaigns  
@@ -127,9 +127,7 @@ It combines high-performance automation, smart safety features, and a simple lic
 ## 📩 Contact & Support
 
 - 🌐 Website: [https://susocialpro.com](https://susocialpro.com)  
-- 📧 Email: support@susocialpro.com  
-- 🧾 Documentation: Coming Soon  
-- 📦 Download: [GitHub Releases](https://github.com/SuSocialPro/SuSocialPro/releases)
+- 📧 Email: contact@susocialpro.com  
 
 ---
 
