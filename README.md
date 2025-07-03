@@ -90,6 +90,25 @@ It combines high-performance automation, smart safety features, and a simple lic
 
 ---
 
+## 🎥 SuSocialPro Video Tutorials
+
+To help you get started quickly, we provide a complete video tutorial series on how to install, configure, and use SuSocialPro for different social media platforms.
+
+📺 **Watch Now on YouTube:**  
+[👉 SuSocialPro Official Channel](https://www.youtube.com/@susocialpro)
+
+The tutorials cover:
+
+- Installation & Activation  
+- Connecting accounts (Facebook, Instagram, TikTok, etc.)  
+- Setting up automation tasks (follow, like, post, comment)  
+- Using the built-in account creator (for TikTok, Twitter, Quora)  
+- Scheduling & strategy tips for growth  
+- Advanced features & custom settings
+
+Whether you're a beginner or a pro, these tutorials will guide you step-by-step. Subscribe and stay updated!
+---
+
 ## 👤 Who Is SuSocialPro For?
 
 | User Type             | Use Case                                                  |
@@ -128,6 +147,9 @@ It combines high-performance automation, smart safety features, and a simple lic
 
 - 🌐 Website: [https://susocialpro.com](https://susocialpro.com)  
 - 📧 Email: contact@susocialpro.com  
+- 💬 Telegram: [@susocialpro](https://t.me/susocialpro)  
+- 📱 WhatsApp: [+86 13148768422](https://wa.me/8613148768422)
+
 
 ---
 
