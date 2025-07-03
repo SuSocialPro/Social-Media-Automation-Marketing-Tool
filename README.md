@@ -107,8 +107,9 @@ The tutorials cover:
 - Advanced features & custom settings
 
 Whether you're a beginner or a pro, these tutorials will guide you step-by-step. Subscribe and stay updated!
----
 
+
+---
 ## 👤 Who Is SuSocialPro For?
 
 | User Type             | Use Case                                                  |
